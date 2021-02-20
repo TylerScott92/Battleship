@@ -1,0 +1,5 @@
+B B1 B4
+S E1 E3
+C C1 C3
+A A1 A5
+D D1 D2
